@@ -1,0 +1,28 @@
+{
+  "format_version": "1.10",
+  "minecraft:behavior.random_stroll": {
+    "priority": 1,
+    "speed_multiplier": 1.2
+  },
+  "minecraft:behavior.trade": {
+    "priority": 2
+  },
+  "minecraft:behavior.avoid_mob": {
+    "priority": 3,
+    "avoid_distance": 10,
+    "mob_types": ["minecraft:zombie", "minecraft:husk", "minecraft:vindicator", "minecraft:evoker"]
+  },
+  "minecraft:behavior.go_to_bed": {
+    "priority": 4,
+    "speed_multiplier": 1.5
+  },
+  "minecraft:behavior.work_at_station": {
+    "priority": 5
+  },
+  "minecraft:behavior.flee": {
+    "priority": 6,
+    "flee_from": ["minecraft:zombie", "minecraft:husk", "minecraft:vindicator", "minecraft:evoker"],
+    "distance": 12,
+    "speed_multiplier": 1.8
+  }
+}
