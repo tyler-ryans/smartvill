@@ -3,15 +3,15 @@
   "header": {
     "description": "Smart Villagers and Golems Behavior Pack",
     "name": "SmartVillagersBP",
-    "uuid": "f7c4f7a0-8c12-4a1e-9a58-3d7c6f94babc",
-    "version": [1, 21, 10],
+    "uuid": "b3f8e0e5-2c84-4a7c-9f31-1d0c42f7a8a1",
+    "version": [1, 0, 0],
     "min_engine_version": [1, 21, 10]
   },
   "modules": [
     {
-      "description": "Main behavior module",
+      "description": "Smart Villagers & Golems module",
       "type": "data",
-      "uuid": "2a1b6f3e-9f12-4f4e-9b5c-1e2a3f4b5c6d",
+      "uuid": "d5f7a4b8-1f4e-4f9a-8c22-7b9e4c5f6d3a",
       "version": [1, 0, 0]
     }
   ]
