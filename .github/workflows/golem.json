@@ -1,0 +1,23 @@
+{
+  "format_version": "1.10",
+  "minecraft:behavior.raid_attack": {
+    "priority": 1
+  },
+  "minecraft:behavior.random_stroll": {
+    "priority": 2
+  },
+  "minecraft:behavior.look_at_target": {
+    "priority": 3,
+    "look_distance": 10
+  },
+  "minecraft:behavior.attack": {
+    "priority": 4,
+    "target_types": ["minecraft:zombie", "minecraft:husk", "minecraft:vindicator", "minecraft:evoker", "minecraft:pillager"],
+    "damage": 20
+  },
+  "minecraft:behavior.guard_village": {
+    "priority": 5,
+    "patrol_radius": 15,
+    "speed_multiplier": 1.2
+  }
+}
