@@ -4,7 +4,7 @@
     "description": "Smart Villagers and Golems Behavior Pack",
     "name": "SmartVillagersBP",
     "uuid": "f7c4f7a0-8c12-4a1e-9a58-3d7c6f94babc",
-    "version": [1, 0, 0],
+    "version": [1, 21, 10],
     "min_engine_version": [1, 21, 10]
   },
   "modules": [
